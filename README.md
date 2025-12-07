@@ -18,7 +18,7 @@ I specialize in:
 ---
 
 ## Projects
-Here are some highlights of my work:  
+Here are some highlights of my work (coming soon):  
 
 | Project | Description | Link |
 |---------|-------------|------|
@@ -26,7 +26,7 @@ Here are some highlights of my work:
 | Project 2 | Short description of project 2 | [View](link-to-project-2) |
 | Project 3 | Short description of project 3 | [View](link-to-project-3) |
 
-> You can add images, GIFs, or even badges for each project to make it visually appealing.
+
 
 ---
 
