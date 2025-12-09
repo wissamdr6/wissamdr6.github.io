@@ -15,7 +15,7 @@ const seo = {
     url: "https://github.com/wissamdr6",
   },
 };
-
+// modif
 
 //Home Page
 const greeting = {
