@@ -22,7 +22,7 @@ Here are some highlights of my work (coming soon):
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Voice-of-Customer NLP Intelligence | An end-to-end NLP system that analyzes user feedback to extract sentiment, detect negative aspects, and identify recurring issues to drive product improvement. | [View]((https://github.com/wissamdr6/voice-of-customer-nlp)) |
+| Voice-of-Customer NLP Intelligence | An end-to-end NLP system that analyzes user feedback to extract sentiment, detect negative aspects, and identify recurring issues to drive product improvement. | [((https://github.com/wissamdr6/voice-of-customer-nlp))] |
 | Project 2 | Coming soon | [View]((https://github.com/wissamdr6/Project-2)) |
 
 
