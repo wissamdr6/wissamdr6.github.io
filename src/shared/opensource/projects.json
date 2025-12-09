@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "Voice-of-Customer NLP Intelligence",
+      "createdAt": "Coming soon",
+      "url": "https://github.com/wissamdr6/voice-of-customer-nlp.git",
+      "description": "An end-to-end NLP system that analyzes user feedback to extract sentiment, detect negative aspects, and identify recurring issues to drive product improvement.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Project 2",
+      "createdAt": "Coming soon",
+      "url": "https://github.com/wissamdr6/Project-2",
+      "description": "📦 Coming soon",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Portfolio",
+      "createdAt": "2025-12-09T16:26:54Z",
+      "url": "https://github.com/wissamdr6/portfolio",
+      "description": "A personal portfolio showcasing my Data Science projects, Machine Learning experiments, and professional work. Built to highlight my skills, experience, and technical achievements across real-world and academic projects.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    }
+  ]
+}
